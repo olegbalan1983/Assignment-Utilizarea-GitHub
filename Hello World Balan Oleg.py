@@ -11,4 +11,5 @@
 #     print("Hello World")
 #     i+=1
 # Sau cu "str"*"int"
+print("Acesta este rezultatul:")
 print("Hello World \n"*36)
